@@ -1,8 +1,0 @@
-/Users/fuadaghazada/Desktop/Rust/gamedev/hands-on-rust-game-dev/flappy/target/debug/deps/bracket_algorithm_traits-4361a4d890f9d628.rmeta: /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/lib.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/algorithm2d.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/algorithm3d.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/basemap.rs
-
-/Users/fuadaghazada/Desktop/Rust/gamedev/hands-on-rust-game-dev/flappy/target/debug/deps/bracket_algorithm_traits-4361a4d890f9d628.d: /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/lib.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/algorithm2d.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/algorithm3d.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/basemap.rs
-
-/Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/lib.rs:
-/Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/algorithm2d.rs:
-/Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/algorithm3d.rs:
-/Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-algorithm-traits-0.8.7/src/basemap.rs:

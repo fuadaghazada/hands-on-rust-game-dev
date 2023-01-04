@@ -1,8 +1,0 @@
-/Users/fuadaghazada/Desktop/Rust/gamedev/hands-on-rust-game-dev/flappy/target/debug/deps/bracket_random-314e2e3873c5f7f9.rmeta: /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-random-0.8.7/src/lib.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-random-0.8.7/src/random.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-random-0.8.7/src/parsing.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-random-0.8.7/src/iterators.rs
-
-/Users/fuadaghazada/Desktop/Rust/gamedev/hands-on-rust-game-dev/flappy/target/debug/deps/bracket_random-314e2e3873c5f7f9.d: /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-random-0.8.7/src/lib.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-random-0.8.7/src/random.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-random-0.8.7/src/parsing.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-random-0.8.7/src/iterators.rs
-
-/Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-random-0.8.7/src/lib.rs:
-/Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-random-0.8.7/src/random.rs:
-/Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-random-0.8.7/src/parsing.rs:
-/Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-random-0.8.7/src/iterators.rs:
