@@ -1,0 +1,8 @@
+/Users/fuadaghazada/Desktop/Rust/gamedev/hands-on-rust-game-dev/flappy/target/debug/deps/bracket_embedding-d87d254e4a70c6fc.rmeta: /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/lib.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/embedding.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/terminal8x8.png /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/vga8x16.png
+
+/Users/fuadaghazada/Desktop/Rust/gamedev/hands-on-rust-game-dev/flappy/target/debug/deps/bracket_embedding-d87d254e4a70c6fc.d: /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/lib.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/embedding.rs /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/terminal8x8.png /Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/vga8x16.png
+
+/Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/lib.rs:
+/Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/embedding.rs:
+/Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/terminal8x8.png:
+/Users/fuadaghazada/.cargo/registry/src/github.com-1ecc6299db9ec823/bracket-embedding-0.8.7/src/../resources/vga8x16.png:
