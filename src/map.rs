@@ -20,6 +20,7 @@ impl Map {
     }
 
     pub fn render(&self, ctx: &mut BTerm, camera: &Camera) {
+        ctx.set_active_console(0);
         for y in camera.top_y..SCREEN_HEIGHT {
             for x in camera.left_x..SCREEN_WIDTH {
                 if self.in_bounds(Point::new(x, y)) {
